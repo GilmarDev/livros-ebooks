@@ -17,4 +17,4 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 
 ## Infraestrutura
 
-- [ ] Controlando versões com Git e GitHub - Alexandre Aquiles, Rodrigo Ferreira
+- [ ] Controlando versões com Git e GitHub -- Alexandre Aquiles, Rodrigo Ferreira
