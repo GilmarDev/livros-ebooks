@@ -5,3 +5,8 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 
 
 - [ ] Java: como programar 10º edição -- Paul Deitel (Autor), Harvey Deitel (Autor) 
+
+
+## Auto Ajuda
+
+- [X] AS ARMAS DA PERSUASÃO -- Robert B. Cialdini, Ph. D.
