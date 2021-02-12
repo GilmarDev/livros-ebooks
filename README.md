@@ -9,7 +9,7 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 
 ## Auto Ajuda
 
-- [X] As Armas Da Persuasão -- Robert B. Cialdini, Ph. D.
+- [X] As armas da persuasão -- Robert B. Cialdini, Ph. D.
 
 ## Gestão
 
