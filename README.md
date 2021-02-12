@@ -1,4 +1,4 @@
-# livros_e_ebooks
+# livros e ebooks
 _Repositório contendo a lista de livros e ebooks que já li alguns segue como referência de estudo._
 
 ## Java 
