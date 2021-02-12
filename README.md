@@ -5,7 +5,7 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 
 
 - [ ] Java: como programar 10º edição -- Paul Deitel (Autor), Harvey Deitel (Autor) 
-
+- [ ] Java 8 – Ensino Didático - Desenvolvimento e Implementação de Aplicações -- Sergio Furgeri
 
 ## Auto Ajuda
 
