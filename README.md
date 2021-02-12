@@ -14,6 +14,7 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 ## Gestão
 
 - [X] Fundamentos do Scrum -- Rodrigo Alves Costa
+- [X] Scrum: Gestão ágil para projetos de sucesso -- Rafael Sabbagh
 
 ## Infraestrutura
 
