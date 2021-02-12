@@ -10,3 +10,7 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 ## Auto Ajuda
 
 - [X] As Armas Da Persuasão -- Robert B. Cialdini, Ph. D.
+
+## Gestão
+
+- [X] Fundamentos do Scrum -- Rodrigo Alves Costa
