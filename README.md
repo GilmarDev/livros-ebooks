@@ -11,6 +11,8 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 
 - [X] As armas da persuasão -- Robert B. Cialdini, Ph. D.
 - [X] Por que Fazemos o que Fazemos? - Aflições vitais sobre trabalho, carreira e realização -- Mario Sergio Cortella
+- [ ] A técnica Pomodoro -- Francesco de Cirillo
+
 ## Gestão
 
 - [X] Fundamentos do Scrum -- Rodrigo Alves Costa
