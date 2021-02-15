@@ -10,7 +10,7 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 ## Auto Ajuda
 
 - [X] As armas da persuasão -- Robert B. Cialdini, Ph. D.
-
+- [X] Por que Fazemos o que Fazemos? - Aflições vitais sobre trabalho, carreira e realização -- Mario Sergio Cortella
 ## Gestão
 
 - [X] Fundamentos do Scrum -- Rodrigo Alves Costa
