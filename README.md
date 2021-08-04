@@ -27,3 +27,4 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 ## Outros
 
 - [X] A revolução dos bichos -- George Orwell
+- [ ] Essencialismo -- Greg McKeown
