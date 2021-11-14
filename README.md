@@ -16,7 +16,8 @@ _Repositório contendo a lista de livros e ebooks que já li alguns segue como r
 
 - [X] Fundamentos do Scrum -- Rodrigo Alves Costa
 - [X] Scrum: Gestão ágil para projetos de sucesso -- Rafael Sabbagh
-- [X]  Guia do Dev Autodidata -- Paulo Luan Mariano Silva
+- [X] Guia do Dev Autodidata -- Paulo Luan Mariano Silva
+- [ ] Gestão de pessoas não é com o RH -- José Luiz Bichuetti
 
 ## Infraestrutura
 
